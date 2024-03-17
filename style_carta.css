@@ -2,17 +2,14 @@
 
 h1 {
   color: green;
-  border: 1px solid black;
 }
 
 h2 {
     color: rgb(84,159, 65);
-    border: 1px solid black;
   }
 
 h3 {
     color: rgb(97, 162, 42 );
-    border: 1px solid black;
   }
 
 p {
@@ -24,6 +21,7 @@ body {
         margin: 20px auto;
         padding: 60px ;
         background-color: #F2F3CA; /*#f9f9f9;*/
+        border: 1px solid black;
     }
 
 .carta {
