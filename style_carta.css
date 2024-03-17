@@ -13,14 +13,14 @@ p {
 }
 body {
         font-family: Georgia, serif;
-        max-width: 600px;
+        max-width: 800px;
         margin: 20px auto;
         padding: 60px ;
         background-color: #f9f9f9;
     }
 
 .carta {
-    max-width: 800px;
+  
     margin: 20px auto;
     padding: 20px;
     border: 1px solid #ccc;
