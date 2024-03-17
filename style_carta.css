@@ -1,15 +1,19 @@
 /*Styles for carta_eje*/
 
-h2 {
-    color: rgb(84,159, 65);
-  }
-
 h1 {
   color: green;
 }
 
+h2 {
+    color: rgb(84,159, 65);
+  }
+
+h3 {
+    color: rgb(193, 35, 23);
+  }
+
 p {
-    color: rgb(1, 31, 1);
+    color: rgb(32, 29, 29 );
 }
 body {
         font-family: Georgia, serif;
@@ -43,5 +47,4 @@ body {
 .firma {
     text-align: left;
     font-family: Verdana, sans-serif;
-    color: red;
 }
