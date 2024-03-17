@@ -15,6 +15,7 @@ h3 {
 p {
     color: rgb(32, 29, 29 );
 }
+
 body {
         font-family: Georgia, serif;
         margin: 20px auto;
@@ -23,7 +24,6 @@ body {
     }
 
 .carta {
-  
     max-width: 800px;
     margin: 20px auto;
     padding: 20px;
