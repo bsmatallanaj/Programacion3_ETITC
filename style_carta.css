@@ -38,4 +38,10 @@ body {
 
 .media {
     text-align: center;
+}
 
+.firma {
+    text-align: left;
+    font-family: Verdana, sans-serif;
+    color: red;
+}
